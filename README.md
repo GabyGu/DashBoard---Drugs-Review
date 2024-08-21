@@ -1,2 +1,4 @@
 # DashBoard---Drugs-Review
 Proyecto de Análisis de Datos utilizando un repositorio en línea de UC Irvine Machine Learning Repository
+
+El proyecto desarrolla un tablero dinámico para evaluar la eficiencia y aceptación de fármacos basado en experiencias de usuarios. Utiliza técnicas de visualización como gráficos de pastel, boxplots y de barra para presentar datos de medicamentos, permitiendo decisiones informadas. Implementado con Dash para aplicaciones web interactivas, pandas para análisis de datos, y ucimlrepo para acceder a conjuntos de datos. GitHub facilita la conexión y despliegue automático con el servidor. Funcionalidades adicionales incluyen filtros de rango de fecha y eliminación aleatoria de datos con imputación mediante interpolación, asegurando una herramienta robusta y versátil para monitoreo y análisis de medicamentos. Link del dash subido al servidor web
